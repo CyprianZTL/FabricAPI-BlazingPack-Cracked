@@ -16,12 +16,6 @@
 - **Licencja**: Apache-2.0
 - **Ikona**: `assets/fabric/icon.png`
 
-## Kontakt i Źródła
-- **Strona domowa**: [FabricMC](https://fabricmc.net)
-- **IRC**: irc://irc.esper.net:6667/fabric
-- **Problemy**: [GitHub Issues](https://github.com/FabricMC/fabric/issues)
-- **Kod Źródłowy**: [GitHub Sources](https://github.com/FabricMC/fabric)
-
 ## Moduły JAR
 Zawiera wszystkie standardowe moduły Fabric API, plus dodatkowe moduły specyficzne dla tej wersji, oferujące rozszerzone funkcjonalności i optymalizacje, w tym mechanizmy umożliwiające omijanie detekcji przez specyficzne środowiska, takie jak BlazingPack.
 
